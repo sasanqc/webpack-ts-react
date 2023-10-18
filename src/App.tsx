@@ -1,5 +1,6 @@
 const App = () => {
-  return <div>{process.env.name}</div>;
-};
+  const name = 'sadsn'
+  return <div>{process.env.name}</div>
+}
 
-export default App;
+export default App
